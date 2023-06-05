@@ -1,0 +1,52 @@
+.Header{
+    background-color: black;
+    color: antiquewhite;
+    width:100%;
+    text-align: center;
+}
+.table{
+    text-align: center;
+    padding: 2px;
+    border: 2px solid black;
+   
+}
+.delbtn{
+    color: whitesmoke;
+    background-color: tomato;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    color :azure;
+    border:2px solid azure;
+}
+.edtbtn{
+    color: whitesmoke;
+    background-color: deepskyblue;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    color :azure;
+    border:2px solid azure;
+}
+.eduser, .aduser{
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    background-color: black;
+    color :azure;
+    border:2px solid azure;
+    
+}
+form {
+    padding-left: 10px;
+}
+
+.addbtn{
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    background-color: black;
+    color :azure;
+    border:2px solid azure;
+}
+.box,.container{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
