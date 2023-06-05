@@ -27,11 +27,7 @@
     border:2px solid azure;
 }
 .eduser, .aduser{
-    border-top-left-radius: 2rem;
-    border-bottom-right-radius: 2rem;
-    background-color: black;
-    color :azure;
-    border:2px solid azure;
+    border: 2px solid black;
     
 }
 form {
